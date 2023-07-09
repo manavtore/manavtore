@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Flutter Developer</h3>
 
 <p align="center">
-  <img src=".![Header](./your-header-image-name.png)" alt="Header" width="1000" height="300">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavtore&label=Profile%20views&color=0e75b6&style=flat" alt="manavtore" /> </p>
