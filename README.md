@@ -11,10 +11,10 @@
 
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Flutter,Blockchain Technology**
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Manav-Tore-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/manav-tore)
 
 
-<h3 align="left">My profiles:</h3>
+
+<h3 align="left">My Profiles:</h3>
 <p align="left">
   <a href="https://twitter.com/toremanav" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toremanav" height="30" width="40" />
