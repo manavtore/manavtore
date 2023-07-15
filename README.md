@@ -30,6 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p>
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,dart,flutter,java,kotlin,mysql,mongodb,solidity,git,c,firebase)](https://skillicons.dev)
 </p>
 
