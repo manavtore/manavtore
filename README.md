@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Flutter,Blockchain Technology**
 - 👨‍💻 Connect with me**
- <a align="left" href="https://www.linkedin.com/in/manav-tore/">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+ <a href="https://www.linkedin.com/in/manav-tore/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  <a href="https://twitter.com/ToreManav">
