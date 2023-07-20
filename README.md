@@ -10,7 +10,16 @@
 
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Flutter,Blockchain Technology**
-
+-<h3 align="left">Connect with me👨‍💻</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/manav-tore/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://twitter.com/ToreManav">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+<!-- <a href="https://hashnode.com/@abhishekrd" target="blank"><img src="https://fontawesome.com/icons/hashnode?f=brands&s=solid&pc=%23478bff"></a> -->
+</p>
 
 
 <h3 align="left">My Profiles:</h3>
