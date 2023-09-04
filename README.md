@@ -40,7 +40,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,solidity,git,dart,flutter,kotlin,java,mongodb,mysql,c.cpp)](https://skillicons.dev) 
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=manavtore&show_icons=true&locale=en&layout=compact&hide=Objective-C,Makefile&langs_count= 5" alt="manavtore" /></p>
+<<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=manavtore&show_icons=true&locale=en&layout=compact&hide=Objective-C,Makefile&langs_count=5" alt="manavtore" /></p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manavtore&show_icons=true&locale=en" alt="manavtore" /></p>
