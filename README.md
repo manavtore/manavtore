@@ -1,52 +1,29 @@
 
 ![Header](https://github.com/manavtore/manavtore/blob/main/github-header-image.png)
-<h3 align="center">A passionate Flutter Developer</h3>
 
-<p align="center">
-</p>
+<h3 align="center">A passionate Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavtore&label=Profile%20views&color=0e75b6&style=flat" alt="manavtore" /> </p>
 
-<p align="left"> <a href="https://twitter.com/toremanav" target="blank"><img src="https://img.shields.io/twitter/follow/toremanav?logo=twitter&style=for-the-badge" alt="toremanav" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Flutter,Blockchain Technology**
 - 👨‍💻 Connect with me
-
-    <a href="https://www.linkedin.com/in/manav-tore/">
+ <a href="https://www.linkedin.com/in/manav-tore/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="https://twitter.com/ToreManav">
     <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
 
-<h3 align="left">My Profiles:</h3>
-<p align="left">
-  <a href="https://twitter.com/toremanav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toremanav" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/manavtore" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manavtore" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/manavtore777" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manavtore777" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/toremaymsb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="toremaymsb" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,solidity,git,dart,flutter,kotlin,java,mongodb,mysql,c,cpp,firebase,)](https://skillicons.dev) 
+   ### ⚒️ &nbsp; Languages and Tools :
 
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=manavtore&show_icons=true&locale=en&layout=normal&hide=Objective-C,Makefile&langs_count=6" alt="manavtore" /></p>
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,Kotlin,Swift,solidity,figma,ts,js,c,c++,firebase,mongodb,git,solidity&perline=8)](https://skillicons.dev)
 
+### 🔥 &nbsp; My Stats :
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manavtore&show_icons=true&locale=en" alt="manavtore" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=manavtore&theme=default)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himan-Miku&hide=issues&show_icons=true&hide_border=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himan-Miku&size_weight=1&count_weight=0&includeForks=true&layout=compact&hide=html,css,c,c%2B%2B,objective-c,kotlin,swift,cmake&hide_border=true&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
