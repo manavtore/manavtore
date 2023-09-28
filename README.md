@@ -1,7 +1,6 @@
 
 ![Header](https://github.com/manavtore/manavtore/blob/main/github-header-image.png)
 
-<h3 align="left">A passionate Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavtore&label=Profile%20views&color=0e75b6&style=flat" alt="manavtore" /> </p>
 
