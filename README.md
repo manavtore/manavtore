@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Flutter,Blockchain Technology**
-- 👨‍💻 Connect with me
- <a href="https://www.linkedin.com/in/manav-tore/">
+- 👨‍💻 Connect with me  <a href="https://www.linkedin.com/in/manav-tore/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="https://twitter.com/ToreManav">
     <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
+
 
    ### ⚒️ &nbsp; Languages and Tools :
 
