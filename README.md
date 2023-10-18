@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Android Development**
 - 💬 Ask me about **Flutter,Blockchain Technology**
 <p align="center">
-- 👨‍💻 Connect with me -  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Manav_Tore-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manav-tore/)
+- 👨‍💻 Connect with me -  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Manav_Tore-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manav-tore/)]
 </p>
 
 
