@@ -10,6 +10,7 @@
 - 👨‍💻 Connect with me -  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Manav_Tore-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manav-tore/)
 
 
+
    ### ⚒️ &nbsp; Languages and Tools :
 
 
