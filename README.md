@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavtore&label=Profile%20views&color=0e75b6&style=flat" alt="manavtore" /> </p>
 
 
-- 🌱 I’m currently learning **Android Development**
-- 💬 Ask me about **Flutter,Blockchain Technology**
+
 <div style="display: flex; align-items: center;">
-    <p>📫 How to reach me:</p>
-    <a href="https://www.linkedin.com/in/manav-tore/" style="margin-left: 10px;">
-        <img src="https://img.shields.io/badge/-Manav_Tore-blue?style=flat&logo=Linkedin&logoColor=white" />
+    - 🌱 I’m currently learning **Android Development**
+    - 💬 Ask me about **Flutter,Blockchain Technology**
+<p> -📫 How to reach me:</p> <a href="https://www.linkedin.com/in/manav-tore/" style="margin-left: 10px;">  <img src="https://img.shields.io/badge/-Manav_Tore-blue?style=flat&logo=Linkedin&logoColor=white" />
+       
     </a>
 </div>
 
