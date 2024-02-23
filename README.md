@@ -24,3 +24,8 @@
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manavtore&size_weight=1&count_weight=0&includeForks=true&layout=compact&hide=html,css,makefile,ruby,objective-c,kotlin,swift,cmake&hide_border=true&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+### 🎧 &nbsp; Spotify :
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbeflr4fain3sczkxgnrisy7ei&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zbeflr4fain3sczkxgnrisy7ei&redirect=true)
