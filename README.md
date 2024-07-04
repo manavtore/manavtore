@@ -16,7 +16,7 @@
    ### ⚒️ &nbsp; Languages and Tools :
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,c,kotlin,swift,solidity,figma,ts,js,firebase,mongodb,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,c,kotlin,swift,solidity,figma,ts,js,firebase,php,mysql,aws,gcp,mongodb,git&perline=8)](https://skillicons.dev)
 
 ### 🔥 &nbsp; My Stats :
 
